@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rjrevelo.github.io/AED/sitemap.xml
